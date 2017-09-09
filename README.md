@@ -1,3 +1,5 @@
 # hello-world
 - friday class
-hello world fridy
+
+
+My name is Haibert and I love food and music and I cant wait to be done with school
